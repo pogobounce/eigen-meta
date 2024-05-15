@@ -2,6 +2,6 @@
   "name": "Pogo's Operator",
   "website": "https://twitter.com/PogoB",
   "description": "A humble attempt at greatness",
-  "logo": "https://raw.githubusercontent.com/pogobounce/eigen-meta/main/meep.PNG",
+  "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
   "twitter": "https://twitter.com/PogoB"
 }
